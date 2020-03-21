@@ -1,0 +1,8 @@
+To run the code, follow below guidelines:
+
+-- Open terminal
+-- Go to the folder where "passwd_parser.py" is located
+-- Install Python3, if not present.
+-- To run, type on terminal: python3 passwd_parser.py
+
+-- Successful execution will print json output on console. 
